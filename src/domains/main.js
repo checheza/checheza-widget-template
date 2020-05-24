@@ -16,3 +16,5 @@ class MainDomain {
         return `<h1 class="${style.example_style}> ${this.widget.name} </h1>`
     }
 }
+
+export default MainDomain;
